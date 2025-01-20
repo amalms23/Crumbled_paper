@@ -26,7 +26,7 @@ This repository contains MATLAB code for analyzing images of crumpled paper. The
 ## Usage
 
 1.  **Prepare your image:** Replace `crumpled_paper.jpg` with the path to your own crumpled paper image.
-2.  **Run the MATLAB script:** Open MATLAB, navigate to the directory containing the files, and run the script (e.g., by typing `crumpled_paper_analysis` in the command window and pressing Enter).
+2.  **Run the MATLAB script:** Open MATLAB, navigate to the directory containing the files, and run the script (e.g., by typing `crumpled.m` in the command window and pressing Enter).
 
 ## Output
 
