@@ -58,8 +58,4 @@ The script also displays several figures within MATLAB:
 *   **More Advanced Noise Reduction:** More sophisticated noise reduction techniques could be explored.
 *   **Quantitative Analysis:** The code could be extended to perform quantitative analysis of the crumples, such as measuring the number of creases, their length, or their curvature.
 
-## Example Usage in MATLAB
 
-```matlab
-% Assuming the script is named crumpled_paper_analysis.m
-crumpled_paper_analysis;
